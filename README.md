@@ -90,7 +90,7 @@ It isn't always easy to find Kibana plugins, so I wanted to make a list of all o
 [timelion-prometheus](https://github.com/lmangani/timelion-prometheus) |  | &#10003; |  | Experimental Prometheus plugin for Timelion.
 [tk-kibana-vis](https://github.com/e-ucm/tk-kibana-vis) | &#10003; |  |  | Thomas Kilmann Classification visualization.
 [topology](https://github.com/bahaaldine/topology) | &#10003; |  |  | Plugin to explore Elasticsearch Topology
-[kibana-own-home](https://github.com/wtakase/kibana-own-home) | |  |&#10003;| Plugin to explore Elasticsearch Topology
-[conveyor](https://github.com/samtecspg/conveyor) | | &#10003; | | Plugin to explore Elasticsearch Topology
-[indices_view](https://github.com/TrumanDu/indices_view) | | &#10003; | &#10003; | Plugin to explore Elasticsearch Topology
-[cleaner](https://github.com/TrumanDu/cleaner) | | &#10003; | | Plugin to explore Elasticsearch Topology
+[kibana-own-home](https://github.com/wtakase/kibana-own-home) | |  |&#10003;| enables multi-tenancy
+[conveyor](https://github.com/samtecspg/conveyor) | | &#10003; | | Simple (GUI) interface for importing data into Elasticsearch
+[indices_view](https://github.com/TrumanDu/indices_view) | | &#10003; | &#10003; | View indices related information
+[cleaner](https://github.com/TrumanDu/cleaner) | | &#10003; | | Setting index ttl
